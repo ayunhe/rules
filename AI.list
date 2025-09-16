@@ -1,4 +1,4 @@
-servd-anthropic-website.b-cdn.net
-+.anthropic.com
-+.claude.ai
-+.claudeusercontent.com
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
